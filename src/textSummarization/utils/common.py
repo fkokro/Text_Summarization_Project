@@ -4,7 +4,7 @@ from textSummarization.logging import logger
 from pathlib import Path
 
 
-def read_yaml_file(path_to_yaml: dict)->dict:
+def read_yaml(path_to_yaml: Path)->dict:
     """ Read a YAML file and return the contents as a dictionary.
     Args: 
         path_to_yaml (Path): Path to the YAML file.
@@ -15,15 +15,17 @@ def read_yaml_file(path_to_yaml: dict)->dict:
     """
     try:
         with open(path_to_yaml, 'r') as f:
-            logger.info(f"Reading YAML file: {path_to_yaml} loaded successfully.")
+            logger.info(f"YAML file: {path_to_yaml} loaded successfully.")
             return dict(yaml.safe_load(f))
+
     except FileNotFoundError as e:
         logger.error(e)
+
     except Exception as e:
         raise e
     
     
-def create_directories(path_to_directories: str, verbose=True)->None:
+def create_directories(path_to_directories: list, verbose=True)->None:
     """ Create a list of directories.
     Args:
         path_to_directories (list): List of directories to create.
