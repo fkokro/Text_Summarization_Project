@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "deployment_practice"
 AUTHOR_USER_NAME = "fkokro"
-SRC_REPO = "AppTemplate"
+SRC_REPO = "textSummarization"
 AUTHOR_EMAIL = "fkokro@yahoo.com"
 
 setuptools.setup(
