@@ -1,6 +1,6 @@
 from textSummarization.constants import *
 from textSummarization.utils.common import read_yaml, create_directories
-from  textSummarization.entity import (DataIngestionConfig)
+from textSummarization.entity import (DataIngestionConfig)
 
 
 class ConfigurationManager:
