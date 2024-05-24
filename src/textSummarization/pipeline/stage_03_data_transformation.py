@@ -1,5 +1,5 @@
 from textSummarization.config.configuration import ConfigurationManager
-from Text_Summarization_Project.src.textSummarization.components.data_transformation import DataTransformation
+from textSummarization.components.data_transformation import DataTransformation
 from textSummarization.logging import logger
 
 

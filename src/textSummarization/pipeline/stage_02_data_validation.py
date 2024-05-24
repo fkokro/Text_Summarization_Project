@@ -1,5 +1,5 @@
 from textSummarization.config.configuration import ConfigurationManager
-from Text_Summarization_Project.src.textSummarization.components.stage_02_data_validation import DataValidation
+from textSummarization.components.data_validation import DataValidation
 from textSummarization.logging import logger
 
 

@@ -1,5 +1,5 @@
 from textSummarization.config.configuration import ConfigurationManager
-from Text_Summarization_Project.src.textSummarization.components.model_trainer import ModelTrainer
+from textSummarization.components.model_trainer import ModelTrainer
 from textSummarization.logging import logger
 
 

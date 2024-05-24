@@ -1,5 +1,5 @@
 from textSummarization.config.configuration import ConfigurationManager
-from Text_Summarization_Project.src.textSummarization.components.stage_01_data_ingestion import DataIngestion
+from textSummarization.components.data_ingestion import DataIngestion
 from textSummarization.logging import logger
 
 
