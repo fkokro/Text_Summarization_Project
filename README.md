@@ -49,13 +49,12 @@ Now,
 open up you local host and port
 ```
 
-```
-Author: Flomo Kokro \n
-Data Scientist \n
+####
+Author: Flomo Kokro
+Data Scientist
 Email: fkokro@yahoo.com
-```
 
-Note:
+#### Note:
 !pip install --upgrade accelerate
 !pip uninstall -y transformers accelerate
 !pip install transformers accelerate
