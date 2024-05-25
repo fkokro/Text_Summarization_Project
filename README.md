@@ -48,11 +48,13 @@ Now,
 ```bash
 open up you local host and port
 ```
-Author: Flomo Kokro
-Data Scientist
-Email: fkokro@yahoo.com
 
 ```
+Author: Flomo Kokro \n
+Data Scientist \n
+Email: fkokro@yahoo.com
+```
+
 Note:
 !pip install --upgrade accelerate
 !pip uninstall -y transformers accelerate
