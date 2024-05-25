@@ -61,5 +61,5 @@ Email: fkokro@yahoo.com
 ###
 Credits to Krish Naik <br/>
 Full training can be found here: <br/>
-youtube: https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=19 <br/>
-github: https://github.com/krishnaik06/Text-Summarization-NLP-Project/tree/main
+youtube: [link](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=19) <br/>
+github: [link](https://github.com/krishnaik06/Text-Summarization-NLP-Project/tree/main)
