@@ -11,6 +11,48 @@
 7. update the main.py
 8. Update the app.py
 
+## How to run?
+
+### STEPS:
+
+Clone the repository
+
+Clone the repository
+
+```bash
+git@github.com:fkokro/Text_Summarization_Project.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n summary python=3.8 -y
+```
+
+```bash
+conda activate summary
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+Author: Flomo Kokro
+Data Scientist
+Email: fkokro@yahoo.com
+
+```
 Note:
 !pip install --upgrade accelerate
 !pip uninstall -y transformers accelerate
