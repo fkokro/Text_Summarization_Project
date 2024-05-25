@@ -58,7 +58,7 @@ Author: Flomo Kokro <br/>
 Data Scientist <br/>
 Email: fkokro@yahoo.com
 
-
-Credits to Krish Naik, full training can be found here: <\br>
-youtube: https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=19 <\br>
+###
+Credits to Krish Naik, full training can be found here: <br/>
+youtube: https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=19 <br/>
 github: https://github.com/krishnaik06/Text-Summarization-NLP-Project/tree/main
