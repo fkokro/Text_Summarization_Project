@@ -17,7 +17,6 @@
 
 Clone the repository
 
-Clone the repository
 
 ```bash
 git@github.com:fkokro/Text_Summarization_Project.git
@@ -50,11 +49,11 @@ open up you local host and port
 ```
 
 ####
-Author: Flomo Kokro
-Data Scientist
+Author: Flomo Kokro <br/>
+Data Scientist <br/>
 Email: fkokro@yahoo.com
 
 #### Note:
-!pip install --upgrade accelerate
-!pip uninstall -y transformers accelerate
+!pip install --upgrade accelerate <br/>
+!pip uninstall -y transformers accelerate <br/>
 !pip install transformers accelerate
