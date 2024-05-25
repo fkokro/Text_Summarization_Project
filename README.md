@@ -1,5 +1,10 @@
 # Text Summarization Project
 
+Summary:
+
+This project leverages Samsun text dataset to train generative artifical intelligence model Google pegasus-cnn_dailymail for text summarization purposes. Within the Swagger UI you can submit a snippet of text, the model will output a summarized version of text. This model was created to gain experience in end to end machiine learning model creation with deployement.
+
+
 ## WorkFlow
 
 1. Update config.yaml
@@ -53,7 +58,7 @@ Author: Flomo Kokro <br/>
 Data Scientist <br/>
 Email: fkokro@yahoo.com
 
-#### Note:
+Note: <br/>
 !pip install --upgrade accelerate <br/>
 !pip uninstall -y transformers accelerate <br/>
 !pip install transformers accelerate
